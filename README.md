@@ -1,5 +1,7 @@
 ### Hello, World!  I'm Juliana Zambon, computer science student.
 
+![Snake animation](https://github.com/JulianaZambon/JulianaZambon/blob/output/github-contribution-grid-snake.svg)
+
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaZambon&layout=compact&langs_count=7&theme=dracula"/>
