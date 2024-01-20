@@ -9,5 +9,3 @@ I am currently pursuing a degree in Computer Science at the Federal University o
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulianaZambon&bg_color=000000&color=1a5fb4&line=1c71d8&point=1a5fb4&area=true&hide_border=true"
     (https://github.com/ashutosh00710/github-readme-activity-graph)"/>
 <br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
