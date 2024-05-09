@@ -1,6 +1,6 @@
 ### 👋 Hello, World! I'm Juliana Zambon, a computer science student.
 
-I am currently pursuing a degree in Computer Science at the Federal University of Paraná (UFPR) and hold a scholarship as a member of the PET Computing group - UFPR (Tutorial Education Program). Additionally, I actively engage as a scientific initiation volunteer in the Vision Robotics and Image Lab, while also contributing as a digital volunteer to the #tmjUNICEF project led by the United Nations Children's Fund (UNICEF) in Brazil.
+I am a Computer Science student at the Federal University of Paraná (UFPR), actively involved in projects at PET Computação, where I participate in teaching, research, and extension initiatives. As a volunteer in scientific initiation at the Vision, Robotics, and Image Laboratory (VRI), I contribute to promoting citizen science in education, particularly through creating an application to facilitate field protocol execution in public schools in Paraná.
 <div align="center">
     <img height="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JulianaZambon&theme=tokyonight&show_icons=true&bg_color=0d1117&hide_border=true"  />
     <img height="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulianaZambon&theme=tokyonight&layout=compact&bg_color=0d1117&hide_border=true" />
