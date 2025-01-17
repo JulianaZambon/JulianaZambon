@@ -1,6 +1,15 @@
 ### 👋 Hello, World! I'm Juliana Zambon
 
-I am a Computer Science student at the Federal University of Paraná, actively participating in PET Computação projects and volunteering at the Vision, Robotics, and Image Lab, developing educational applications. I support children's rights through UNICEF Brazil and, in 2024, have coordinated communications for Latin America's largest women's programming marathon (MFP). In 2023, I published a paper titled 'Technology as an Agent of Inclusion: The Impact of the Computer Training Course for Immigrants.' I have advanced knowledge of English and basic knowledge of Spanish and German. Additionally, I am an ICPC competitor, participating in programming marathons, and part of the Brazilian Alumni of Aspire Institute.
+I am a Computer Science student at the Federal University of Paraná (UFPR), with a journey marked by involvement in research projects and social impact initiatives. I was a scholarship holder for 2.5 years in the Tutorial Education Program (PET) for Computer Science at UFPR, where I published the academic article "Technology as an Agent of Inclusion: The Impact of the Computer Training Course for Immigrants" in 2023 in the ComIng journal. Currently, I am a research fellow at the Vision, Robotics, and Image Laboratory in the Informatics Department at UFPR, where I contribute to the development of the educational application "Ciência na Escola."
+<br>
+
+In 2024, I took on the role of Communications Coordinator for the Women's Programming Marathon (MFP), the largest women's programming marathon in Latin America, held at UNICAMP. I am also an active competitor in programming marathons, regularly participating in competitions.
+<br>
+
+I am a member of the Brazilian Alumni of the Aspire Institute, where I developed skills in leadership, trust-building, digital transformation, artificial intelligence, addressing community challenges, and driving global impact. Additionally, I contribute to defending children's rights through digital volunteering with #tmjUNICEF for UNICEF Brazil.
+<br>
+
+<br>
 <div align="center">
     <img height="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JulianaZambon&theme=tokyonight&show_icons=true&bg_color=0d1117&hide_border=true"  />
     <img height="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulianaZambon&theme=tokyonight&layout=compact&bg_color=0d1117&hide_border=true" />
