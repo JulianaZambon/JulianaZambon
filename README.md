@@ -1,12 +1,12 @@
 ### 👋 Hello, World! I'm Juliana Zambon
 
-I am a Computer Science student at the Federal University of Paraná (UFPR), with a journey marked by involvement in research projects and social impact initiatives. I was a scholarship holder in the Tutorial Education Program (PET) for Computer Science at UFPR, where I published the academic article "Technology as an Agent of Inclusion: The Impact of the Computer Training Course for Immigrants" in 2023 in the ComIng journal. Currently, I am a research fellow at the Vision, Robotics, and Image Laboratory in the Informatics Department at UFPR, where I contribute to the development of the educational application "Ciência na Escola."
+I am a Computer Science student at the Federal University of Paraná (UFPR), with a journey marked by involvement in research and social impact initiatives. I was a scholarship holder in the Computer Science Tutorial Education Program (PET) at UFPR, where I published the academic article "Technology as an Agent of Inclusion: The Impact of the Computer Training Course for Immigrants" in the ComIng journal (2023). Currently, I am a researcher at the Vision, Robotics, and Image Laboratory (VRI) in the Department of Informatics at UFPR, where I contribute to the development of the educational application Ciência na Escola and conduct research at the intersection of computer science and genetics.
 <br>
 
-In 2024, I took on the role of Communications Coordinator for the Women's Programming Marathon (MFP), the largest women's programming marathon in Latin America, held at UNICAMP. I am also an active competitor in programming marathons, regularly participating in competitions.
+In 2024, I took on the role of Communications Coordinator for the Women's Programming Marathon (MFP), the largest women's programming marathon in Latin America, held at UNICAMP. Additionally, I am an active competitor in programming marathons, regularly participating in competitions.
 <br>
 
-I am a member of the Brazilian Alumni of the Aspire Institute, where I developed skills in leadership, trust-building, digital transformation, artificial intelligence, addressing community challenges, and driving global impact. Additionally, I contribute to defending children's rights through digital volunteering with #tmjUNICEF for UNICEF Brazil.
+I am a member of the Brazilian Alumni of the Aspire Institute, where I developed skills in leadership, trust-building, digital transformation, artificial intelligence, addressing community challenges, and driving global impact. I also contributed to defending children's rights through digital volunteering with #tmjUNICEF for UNICEF Brazil.
 <br>
 
 <br>
