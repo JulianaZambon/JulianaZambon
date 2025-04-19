@@ -6,9 +6,7 @@ Currently, I work as a researcher at the Vision, Robotics, and Image Lab (VRI), 
 
 I'm committed to female inclusion in tech. In 2024, I became the Communications Coordinator for the Women’s Programming Marathon (MFP) — the largest women's programming marathon in Latin America. I’m also an active competitive programmer, constantly improving my problem-solving and teamwork skills through challenges under pressure.
 
-I’m part of the Aspire Institute's Brazilian alumni network, where I developed leadership, innovation, and community impact skills while connecting with a global community of changemakers.
-
-I also volunteered digitally with #tmjUNICEF, supporting the defense of children’s and adolescents’ rights in Brazil, with a special focus on mental health.
+I’m part of the Aspire Institute's Brazilian alumni network, where I developed leadership, innovation, and community impact skills while connecting with a global community of changemakers. I also volunteered digitally with #tmjUNICEF, supporting the defense of children’s and adolescents’ rights in Brazil, with a special focus on mental health.
 
 
 ### 📫 Let's connect!
