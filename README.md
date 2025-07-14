@@ -1,12 +1,10 @@
 ### 👋 Hello, World! I'm Juliana Zambon
 
-I'm a Computer Science student at the Federal University of Paraná (UFPR), passionate about using technology to build innovative solutions that create a positive social impact.
+I am a Computer Science student at UFPR, passionate about using technology as a tool to create innovative solutions with a positive social impact. Currently, I work as a researcher at the Center for Scientific Computing and Free Software (C3SL) within UFPR’s Department of Informatics, and I am involved in undergraduate research at the Vision, Robotics, and Imaging Laboratory (VRI), where I have contributed to the development of the PICCE platform.
 
-Currently, I work as a researcher at the Vision, Robotics, and Image Lab (VRI), where I help develop the educational app Ciência na Escola and explore the exciting intersection of computing and genetics. Previously, I was a scholarship holder in the Tutorial Education Program (PET) in Computer Science.
+I am deeply committed to promoting female inclusion in technology. In 2024, I took on the role of Communications Coordinator for the Women’s Programming Marathon (MFP) and actively compete in programming contests, environments that challenge my ability to work under pressure, optimize solutions, and collaborate effectively to solve complex problems.
 
-I'm committed to female inclusion in tech. In 2024, I became the Communications Coordinator for the Women’s Programming Marathon (MFP) — the largest women's programming marathon in Latin America. I’m also an active competitive programmer, constantly improving my problem-solving and teamwork skills through challenges under pressure.
-
-I’m part of the Aspire Institute's Brazilian alumni network, where I developed leadership, innovation, and community impact skills while connecting with a global community of changemakers. I also volunteered digitally with #tmjUNICEF, supporting the defense of children’s and adolescents’ rights in Brazil, with a special focus on mental health.
+I am a member of the Brazilian alumni network of the Aspire Institute, where I developed skills in leadership, innovation, and community impact, while connecting with a global community of professionals and entrepreneurs. Additionally, I volunteered digitally with #tmjUNICEF, focusing on advocating for the rights of children and adolescents, especially regarding mental health issues.
 
 
 ### 📫 Let's connect!
